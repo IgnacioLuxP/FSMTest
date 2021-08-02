@@ -1,5 +1,5 @@
-# FSMTest
- Barebones implementation of Bardent's State Machine with a static character with a couple animations and 3 basic states: Idle, Walk, Attack. 
+# FSMTest (buggy)
+ Barebones implementation of Bardent's State Machine with a static character with a couple animations and 3 basic states: Idle, Walk, Attack.
  Made in Unity version 2019.2.17f1 but should be upgradeable to more recent versions.
 
 ## Issue:
